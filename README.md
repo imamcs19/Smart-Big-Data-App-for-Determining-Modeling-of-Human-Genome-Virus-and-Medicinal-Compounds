@@ -14,4 +14,4 @@ Authors:
 ![image](https://github.com/imamcs19/Smart-Big-Data-App-for-Determining-Modeling-of-Human-Genome-Virus-and-Medicinal-Compounds/blob/main/Cover%20PPT.png)
 
 
-The 3rd International Seminar on Smart Molecule of Natural Resource (ISSMART 2021) – Asian Federation of Biotechnology (AFOB), "Smart Molecule for Human Health and Prosperity”, Malang August 25 - 26 2021, Online seminar (Zoom)
+The 3rd International Seminar on Smart Molecule of Natural Resource (ISSMART 2021) – Asian Federation of Biotechnology (AFOB), "Smart Molecule for Human Health and Prosperity”, Malang August 25 - 26 2021, Online seminar (via Zoom)
